@@ -7,9 +7,9 @@ Because of GitHubs limitations when it comes to file size, Large File Storage (L
 
 * Download the repo zip file, and unzip it.
 * Manually download the 3 following files from the folder "Virtual Fitting Room_Data":
-*   globalgamemanagers.assets
-*   resources.assets
-*   sharedassets0.assets
+  * globalgamemanagers.assets
+  * resources.assets
+  * sharedassets0.assets
 * In the downloaded repo copy, in the folder "Virtual Fitting Room_Data", replace the 3 already existing .assets files with the manually downloaded ones.
 * Navigate back to the top of the downloaded repo folder.
 * Run the prototype application by running the "Virtual Fitting Room.exe" file.
