@@ -12,7 +12,7 @@ Because of GitHubs limitations when it comes to file size, Large File Storage (L
   * sharedassets0.assets
 * In the downloaded repo copy, in the folder "Virtual Fitting Room_Data", replace the 3 already existing .assets files with the manually downloaded ones.
 * Navigate back to the top of the downloaded repo folder.
-* Run the prototype application by running the "Virtual Fitting Room.exe" file.
+* Start the prototype application by running the "Virtual Fitting Room.exe" file.
 
 # How to use
 The prototype application should be fairly straight forward, but here's an explanation of some features.
